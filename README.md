@@ -1,24 +1,11 @@
 # mega
 
-## Project setup
+## Primeira execução
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+docker compose up --build
 ```
 
-### Compiles and minifies for production
+## Próximas execuções
 ```
-npm run build
+docker compose up
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
